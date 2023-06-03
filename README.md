@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Madushan</h1>
 <h3 align="center">I'm Student ,Developer and Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwanka570&label=Profile%20views&color=0e75b6&style=flat" alt="thiwanka570" /> </p>
-
 - 🌱 I’m currently learning **ReactJs,ReactNative,ViuJs,NodeJs,Django,**
 
 <h3 align="left">Connect with me:</h3>
