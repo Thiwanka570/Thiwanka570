@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Madushan</h1>
 <h3 align="center">I'm Student ,Developer and Designer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!">
+<img align="right" alt="coding" width="400" src="[https://i.imgur.com/dTYwdG1.gif" alt="Welcome!](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true)">
 
 - 🌱 I’m currently learning **ReactJs,ReactNative,ViuJs,NodeJs,Django,**
 
