@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Madushan</h1>
-<h3 align="center">I'm Student ,Developer and Designer</h3>
+<h3 align="center">👋 Hi there! I'm Thiwanka Madushan, a passionate software developer with a knack for turning ideas into elegant and efficient code. My journey in the world of programming began [X years ago], and since then, I've been on a continuous quest for learning and improvement.
+
+🚀 My expertise lies in React js,Node Js,Javascript,Spring Boot, JSF, J2EE and I enjoy tackling challenges that push my boundaries. Whether it's crafting clean and maintainable code, solving complex problems, or collaborating on exciting projects, I thrive on the excitement of creating software that makes a positive impact.
+
+🌐 When I'm not immersed in lines of code, you'll find me exploring the latest tech trends, experimenting with new technologies, or contributing to open-source projects. I believe in the power of community and enjoy being part of the ever-evolving tech ecosystem.
+
+📫 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on interesting projects. Together, let's build the future one line of code at a time.
+
+Happy coding! 🚀
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
