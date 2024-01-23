@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Madushan</h1>
-<h3 align="center">👋 Hi there! I'm Thiwanka Madushan, a passionate software developer with a knack for turning ideas into elegant and efficient code. My journey in the world of programming began [X years ago], and since then, I've been on a continuous quest for learning and improvement.
+<h3 align="center">👋 Hi there! I'm Thiwanka Madushan, a passionate software developer with a knack for turning ideas into elegant and efficient code. My journey in the world of programming began 4 years ago, and since then, I've been on a continuous quest for learning and improvement.
 
 🚀 My expertise lies in React js,Node Js,Javascript,Spring Boot, JSF, J2EE and I enjoy tackling challenges that push my boundaries. Whether it's crafting clean and maintainable code, solving complex problems, or collaborating on exciting projects, I thrive on the excitement of creating software that makes a positive impact.
 
