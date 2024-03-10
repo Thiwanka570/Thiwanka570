@@ -11,6 +11,7 @@
 <a href="https://stackoverflow.com/users/21010768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21010768" height="30" width="40" /></a>
 <a href="https://kaggle.com/thiwanka madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thiwanka madushan" height="30" width="40" /></a>
 <a href="https://fb.com/thiwanka madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiwanka madushan" height="30" width="40" /></a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&hide_border=true&theme=github_dark" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
