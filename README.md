@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in building scalable, e
 
 On this GitHub, you’ll find a mix of my personal projects, contributions to open-source communities, and various experiments with cutting-edge technologies. I aim to continually learn, improve, and share my knowledge with others, whether it's through writing clean code or collaborating with like-minded developers.
 
-![Profile Image](https://your-image-url-here.jpg)  <!-- Replace with your profile picture -->
+<!--![Profile Image](https://your-image-url-here.jpg)-->  <!-- Replace with your profile picture -->
 
 ## 🚀 Tech Stack
 - **Languages & Frameworks**: 
