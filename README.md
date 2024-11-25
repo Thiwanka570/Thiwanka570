@@ -24,23 +24,5 @@ On this GitHub, you’ll find a mix of my personal projects, contributions to op
 - **AI/ML**: Working with machine learning models to automate and optimize processes.
 - **Open Source**: Contributing to and learning from the open-source community.
 
-## 🔥 Featured Projects
-1. **Project Name**: [Link to repository](#)
-   - ![Project Image](https://your-image-url-here.jpg)  <!-- Replace with a screenshot of your project -->
-   - Description of the project and what you’ve built.
 
-2. **Another Project**: [Link to repository](#)
-   - ![Project Image](https://your-image-url-here.jpg)  
-   - Brief description of this project and its technologies.
-
----
-
-Feel free to explore my repositories, check out my open-source contributions, and connect if you'd like to collaborate or learn more about my work!
-
----
-
-### 📫 How to Reach Me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
